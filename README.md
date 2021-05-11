@@ -22,5 +22,5 @@ Talking about Personal Stuffs:
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=george-mik&langs_count=8&layout=compact&theme=tokyonight&include_all_commits=true" height="195px">
 </p>
 
-[![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=george-mik)](https://github.com/anuraghazra/github-readme-stats)
+[![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=georgemik)](https://github.com/anuraghazra/github-readme-stats)
      
