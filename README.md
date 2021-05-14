@@ -11,11 +11,11 @@ Talking about Personal Stuffs:
 
 - I'm a full-stack developer for large projects and ready to start your project anytime.
 - Enterprise application development and support
-- <b>Front-end</b> : Reactjs | TypeScript | TailWind CSS | Material | Styled Components | Vuejs | Bootstrap
-- <b>Back-end</b> : Node.js | Django | Ruby on Rails | ASP.NET | Laravel | Symfony | CodeIgniter
-- <b>Database</b> : Mysql | MongoDB | PostgreSQL
+- <b>Front-end</b> : Reactjs | Vuejs | TypeScript | TailWind CSS | Material | Styled Components | Bootstrap
+- <b>Back-end</b> : Node | Express | Django | ASP.NET | Laravel | Symfony | CodeIgniter
+- <b>Database</b> : Mysql | MongoDB | PostgreSQL | Firebase | Firestore
 - <b>CMS</b> : Wordpress | Shopify
-- Amazon Web Services (Lambda, EC2, S3, Route53, DynamoDB, etc), Firebase, Heroku, Trello, Pusher and so on
+- Git, Github, BitBucket, Amazon Web Services (Lambda, EC2, S3, Route53, DynamoDB, etc), Heroku, Jira, Trello, Pusher and so on
 
 <p align="center">
   <img src="https://github.com/usmcamgrimm/usmcamgrimm/blob/master/code.gif" alt="I love writing code" height="195px" />
