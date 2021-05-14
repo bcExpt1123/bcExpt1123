@@ -11,7 +11,7 @@ Talking about Personal Stuffs:
 
 - I'm a full-stack developer for large projects and ready to start your project anytime.
 - Enterprise application development and support
-- <b>Front-end</b> : Reactjs | Vuejs | Bootstrap
+- <b>Front-end</b> : Reactjs | TypeScript | TailWind CSS | Material | Styled Components | Vuejs | Bootstrap
 - <b>Back-end</b> : Node.js | Django | Ruby on Rails | ASP.NET | Laravel | Symfony | CodeIgniter
 - <b>Database</b> : Mysql | MongoDB | PostgreSQL
 - <b>CMS</b> : Wordpress | Shopify
@@ -21,6 +21,3 @@ Talking about Personal Stuffs:
   <img src="https://github.com/usmcamgrimm/usmcamgrimm/blob/master/code.gif" alt="I love writing code" height="195px" />
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=george-mik&langs_count=8&layout=compact&theme=tokyonight&include_all_commits=true" height="195px">
 </p>
-
-[![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=georgemik)](https://github.com/anuraghazra/github-readme-stats)
-     
