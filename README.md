@@ -1,6 +1,6 @@
 
 <p align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=george-mik&row=1&column=6&theme=gruvbox&margin-w=15&margin-h=15"/>
+    <img src="https://github-profile-trophy.vercel.app/?username=yuriy-savin&row=1&column=6&theme=gruvbox&margin-w=15&margin-h=15"/>
 </p>
 
 ## Welcome to my profile. 
@@ -19,5 +19,5 @@ Talking about Personal Stuffs:
 
 <p align="center">
   <img src="https://github.com/usmcamgrimm/usmcamgrimm/blob/master/code.gif" alt="I love writing code" height="195px" />
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=george-mik&langs_count=8&layout=compact&theme=tokyonight&include_all_commits=true" height="195px">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=yuriy-savin&langs_count=8&layout=compact&theme=tokyonight&include_all_commits=true" height="195px">
 </p>
