@@ -19,4 +19,4 @@ Talking about Personal Stuffs:
 
 ### GitHub Contributions
 ![GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?&theme=ayu-mirage&user=mern-dev-full)
-<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=mern-dev-full&langs_count=8&layout=compact&theme=tokyonight&include_all_commits=true" height="195px">
+<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=mern-dev-full&langs_count=8&layout=compact&theme=tokyonight&include_all_commits=true" height="196px">
