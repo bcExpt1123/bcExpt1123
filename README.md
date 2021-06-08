@@ -17,7 +17,8 @@ Talking about Personal Stuffs:
 - <b>CMS</b> : Wordpress | Shopify
 - Git, Github, BitBucket, Amazon Web Services (Lambda, EC2, S3, Route53, DynamoDB, etc), Heroku, Jira, Trello, Pusher and so on
 
+### GitHub Contributions
+![GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?&theme=dracula&user=mern-dev-full)
 <p align="center">
-  ![GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?&theme=dracula&user=mern-dev-full)
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=mern-dev-full&langs_count=8&layout=compact&theme=tokyonight&include_all_commits=true" height="195px">
 </p>
