@@ -1,6 +1,6 @@
 
 <p align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=yuriy-savin&row=1&column=6&theme=gruvbox&margin-w=15&margin-h=15"/>
+    <img src="https://github-profile-trophy.vercel.app/?username=mern-dev-full&row=1&column=6&theme=gruvbox&margin-w=15&margin-h=15"/>
 </p>
 
 ## Welcome to my profile. 
@@ -18,6 +18,6 @@ Talking about Personal Stuffs:
 - Git, Github, BitBucket, Amazon Web Services (Lambda, EC2, S3, Route53, DynamoDB, etc), Heroku, Jira, Trello, Pusher and so on
 
 <p align="center">
-  <img src="https://github.com/usmcamgrimm/usmcamgrimm/blob/master/code.gif" alt="I love writing code" height="195px" />
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=yuriy-savin&langs_count=8&layout=compact&theme=tokyonight&include_all_commits=true" height="195px">
+  ![GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?&theme=dracula&user=mern-dev-full)
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=mern-dev-full&langs_count=8&layout=compact&theme=tokyonight&include_all_commits=true" height="195px">
 </p>
