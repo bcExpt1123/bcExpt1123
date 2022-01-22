@@ -70,4 +70,4 @@ Talking about Personal Stuffs:
     </tr>
 </table>
 
-![](https://raw.githubusercontent.com/oawaoi1123/oawaoi1123/main/code.gif)
+![](./code.gif)
