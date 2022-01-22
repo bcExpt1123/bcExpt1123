@@ -25,21 +25,22 @@ Talking about Personal Stuffs:
     
 ![GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?&theme=ayu-mirage&user=oawaoi1123)
 
+### My Github Status
+![My Github Status](https://github-readme-stats.vercel.app/api?username=oawaoi1123&count_private=true&show_icons=true&theme=chartreuse-dark)
+<br/>
 ### Most Used Langauges    
-    
-<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=oawaoi1123&langs_count=8&layout=compact&theme=tokyonight&include_all_commits=true" height="196px">
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=oawaoi1123&layout=compact&theme=chartreuse-dark&langs_count=8)
 
 
-<img src="https://readme-typing-svg.herokuapp.com/?lines=Blockchain%20Developer;Backend%20Engineer;Frontend%20Expert;React%20Master;8%2B%20years%20of%20coding%20experience;Always%20learning%20new%20techs&font=Pacifico&center=true&width=650&height=120&color=37b39a&vCenter=true&size=45%22">
-</p>
-<img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=oawaoi1123" />
-<img align="right" src="https://img.shields.io/github/followers/MiracleTalent0123?label=Follow&style=social" />
+![](https://readme-typing-svg.herokuapp.com/?lines=Blockchain%20Developer;Backend%20Engineer;Frontend%20Expert;React%20Master;8%2B%20years%20of%20coding%20experience;Always%20learning%20new%20techs&font=Pacifico&center=true&width=650&height=120&color=37b39a&vCenter=true&size=45%22)
+
+<div>
+    <img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=oawaoi1123.oawaoi1123" />
+    <img align="right" src="https://img.shields.io/github/followers/oawaoi1123?label=Follow&style=social" />
+</div>
 <h1 align="center"></h1>
  <img width="100%" src="https://activity-graph.herokuapp.com/graph?username=oawaoi1123&theme=github&count_private=true" /> 
 <h1 align="center"></h1>
-<img align="left" height="170px" src="https://github-readme-stats.vercel.app/api?username=oawaoi1123&count_private=true&show_icons=true&theme=chartreuse-dark" />
-<img align="right" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oawaoi1123&layout=compact&theme=chartreuse-dark&langs_count=8" />
-<img height="150" />
 </br>
 <h2 font-weight="bold" style="display: block; text-align: center; margin-top: 100px;">My Top Skills</h2>
 <table>
