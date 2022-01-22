@@ -69,3 +69,5 @@ Talking about Personal Stuffs:
         <td><img src="https://img.icons8.com/nolan/2x/github.png" width="100" alt="Git"></td>
     </tr>
 </table>
+
+![](https://raw.githubusercontent.com/oawaoi1123/oawaoi1123/main/code.gif)
