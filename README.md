@@ -45,7 +45,9 @@ Talking about Personal Stuffs:
 <h2 font-weight="bold" style="display: block; text-align: center; margin-top: 100px;">My Top Skills</h2>
 <table>
     <tr>
-        <td><img src="https://img.icons8.com/officel/2x/react.png" width="100" alt="React.js"></td>
+        <td><img src="https://img.icons8.com/ios/452/solidity.png" title="Solidity" width="100" alt="Solidity"></td>
+        <td><img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/344/external-rust-is-a-multi-paradigm-system-programming-language-logo-color-tal-revivo.png" title="Rust" width="100" alt="Rust"></td>
+        <td><img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" width="100" alt="React.js"></td>
         <td><img src="https://img.icons8.com/color/2x/angularjs.png" width="100" alt="Angular.js"></td>
         <td><img src="https://img.icons8.com/color/2x/vue-js.png" width="100" alt="Vue.js"></td>
         <td><img src="https://img.icons8.com/color/2x/html-5.png" width="100" alt="HTML5"></td>
@@ -53,19 +55,31 @@ Talking about Personal Stuffs:
         <td><img src="https://img.icons8.com/color/2x/bootstrap.png" width="100" alt="Bootstrap"></td>
         <td><img src="https://img.icons8.com/color/2x/sass.png" width="100" alt="Sass"></td>
         <td><img src="https://img.icons8.com/nolan/2x/javascript.png" width="100" alt="JavaScript"></td>
-        <td><img src="https://img.icons8.com/color/2x/typescript.png" width="100" alt="TypeScript"></td>
-        <td><img src="https://img.icons8.com/color/2x/tensorflow.png" width="100" alt="TensorFlow"></td>
     </tr>
     <tr>
+        <td><img src="https://img.icons8.com/color/2x/typescript.png" width="100" alt="TypeScript"></td>
+        <td><img src="https://img.icons8.com/color/2x/tensorflow.png" width="100" alt="TensorFlow"></td>
         <td><img src="https://img.icons8.com/color/2x/nodejs.png" width="100" alt="node.js"></td>
         <td><img src="https://cdn.iconscout.com/icon/free/png-64/laravel-226015.png" width="100" alt="Laravel"></td>
         <td><img src="https://img.icons8.com/color/2x/django.png" width="100" alt="Django"></td>
-        <td><img src="https://img.icons8.com/nolan/2x/wordpress.png" width="100" alt="WordPress"></td>
+        <td><img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" width="100" alt="Graphql"></td>
         <td><img src="https://img.icons8.com/color/2x/php.png" width="100" alt="PHP"></td>
         <td><img src="https://cdn.iconscout.com/icon/free/png-128/mongodb-4-1175139.png" width="100" alt="MongoDB"></td>
         <td><img src="https://cdn.iconscout.com/icon/free/png-64/mysql-18-1174938.png" width="100" alt="MySQL"></td>
         <td><img src="https://img.icons8.com/color/2x/postgreesql.png" width="100" alt="PostgreSQL"></td>
+    </tr>
+    <tr>
         <td><img src="https://img.icons8.com/color/2x/c-plus-plus-logo.png" width="100" alt="C"></td>
         <td><img src="https://img.icons8.com/nolan/2x/github.png" width="100" alt="Git"></td>
+        <td><img src="https://www.theconsolelogs.com/react/redux.svg" width="100" alt="Redux"></td>
+        <td><img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" width="100" alt="Linux"></td>
+        <td><img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" width="100" alt="Python"></td>
+        <td><img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" width="100" alt="Docker"></td>
+        <td><img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" width="100" alt="Dart"></td>
+        <td><img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" width="100" alt="Flutter"></td>
+        <td><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="100" alt="GitLab"></td>
+        <td><img src="https://img.icons8.com/color/452/amazon-web-services.png" width="100" alt="Amazon Web Service"></td>
     </tr>
 </table>
+
+![](./code.gif)
