@@ -83,4 +83,4 @@ Talking about Personal Stuffs:
     </tr>
 </table>
 
-![](./code.gif)
+![](./gifs/code.gif)
