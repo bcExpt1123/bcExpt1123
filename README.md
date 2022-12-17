@@ -40,7 +40,7 @@ Talking about Personal Stuffs:
     <img align="right" src="https://img.shields.io/github/followers/bcExpt1123?label=Follow&style=social" />
 </div>
 <h1 align="center"></h1>
- <img width="100%" src="https://activity-graph.herokuapp.com/graph?username=bcExpt1123&theme=github&count_private=true" /> 
+ <!-- <img width="100%" src="https://activity-graph.herokuapp.com/graph?username=bcExpt1123&theme=github&count_private=true" /> -->
 <h1 align="center"></h1>
 </br>
 <h2 font-weight="bold" style="display: block; text-align: center; margin-top: 100px;">My Top Skills</h2>
