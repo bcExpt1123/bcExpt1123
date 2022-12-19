@@ -83,6 +83,7 @@ Talking about Personal Stuffs:
     </tr>
     <tr>
         <td><img src="https://github.com/bcExpt1123/bcExpt1123/blob/main/e4f86d2200d2d35c30f7b1494e96b9595ebc2751_2_496x500.png?raw=true" title="Three.js" width="100" alt="Three.js"></td>
+        <td><img src="https://github.com/bcExpt1123/bcExpt1123/blob/main/rubik3.jpg?raw=true" title="Three.js" width="100" alt="Three.js"></td>
     </tr>
 </table>
 
