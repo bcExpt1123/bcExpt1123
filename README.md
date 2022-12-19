@@ -11,11 +11,12 @@ Talking about Personal Stuffs:
 
 - I'm a rich experienced full-stack developer for large projects and ready to start your project anytime.
 - Enterprise application development and support
-- <b>Blockchain</b> : Smart contract | Solidity | ERC-20 | NFT | Rust | Dapp | Defi | Dao | Dex | Ethereum | BSC | Polygon | Solana
 - <b>Front-end</b> : Reactjs | Next.js | Vuejs | TypeScript | TailWind CSS | Material | Styled Components | Bootstrap | Antd 
+- <b>3D projects</b> : Three.js | 3D Max
 - <b>Back-end</b> : Node | Express | Django | ASP.NET | Laravel | CodeIgniter
 - <b>Mobile</b> : React-Native | Flutter | Ionic
 - <b>Database</b> : Mysql | MongoDB | PostgreSQL | Firebase | Firestore
+- <b>Blockchain</b> : Smart contract | Solidity | ERC-20 | NFT | Rust | Dapp | Defi | Dao | Dex | Ethereum | BSC | Polygon | Solana
 - <b>Others</b> : Docker | Docker-Compose | Swagger | Devops | Cicd | QA 
 - Git, Github, BitBucket, Amazon Web Services (Lambda, EC2, S3, Route53, DynamoDB, etc), Heroku, Jira, Trello, Pusher Digital-Ocean, Github Action, and so on.
 
