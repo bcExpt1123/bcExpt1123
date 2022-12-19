@@ -12,7 +12,7 @@ Talking about Personal Stuffs:
 - I'm a rich experienced full-stack developer for large projects and ready to start your project anytime.
 - Enterprise application development and support
 - <b>Front-end</b> : Reactjs | Next.js | Vuejs | TypeScript | TailWind CSS | Material | Styled Components | Bootstrap | Antd 
-- <b>3D projects</b> : Three.js | 3D Max | WebGl | Potree
+- <b>3D</b> : Three.js | 3D Max | WebGl | Potree
 - <b>Back-end</b> : Node | Express | Django | ASP.NET | Laravel | CodeIgniter
 - <b>Mobile</b> : React-Native | Flutter | Ionic
 - <b>Database</b> : Mysql | MongoDB | PostgreSQL | Firebase | Firestore
