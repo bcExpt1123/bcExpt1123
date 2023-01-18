@@ -23,7 +23,7 @@ Talking about Personal Stuffs:
 <i>LOOKING FOR OPPORTUNITY TO CONTRIBUTE TO PROFESSIONAL PROJECTS.</i>
 <div align="center">
     
-### GitHub Contributions
+### GitHub Streak
     
 ![GitHub Contributions](https://streak-stats.demolab.com/?user=bcExpt1123&theme=monokai-metallian&hide_border=true)
 
