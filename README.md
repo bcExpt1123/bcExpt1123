@@ -25,16 +25,18 @@ Talking about Personal Stuffs:
     
 ### GitHub Contributions
     
-![GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?&theme=ayu-mirage&user=bcExpt1123)
+![GitHub Contributions](https://streak-stats.demolab.com/?user=bcExpt1123&theme=monokai-metallian&hide_border=true)
 
 ### My Github Status
-![My Github Status](https://github-readme-stats-sigma-five.vercel.app/api?username=bcExpt1123&count_private=true&show_icons=true&theme=ayu-mirage)
+![My Github Status](https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=bcExpt1123&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,Roff)
     
 <!-- ![My Github Status](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=bcExpt1123&theme=react&line_height=40&hide=css) -->
 
 ### Most Used Langauges
-![](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=bcExpt1123&layout=compact&theme=ayu-mirage&langs_count=8)
+![](https://denvercoder1-github-readme-stats.vercel.app/api/?username=bcExpt1123&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866)
 
+### My Contribution Graph
+![](https://github-readme-activity-graph.cyclic.app/graph/?username=bcExpt1123&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true)
 
 ![](https://readme-typing-svg.herokuapp.com/?lines=Three.js%20Engineer;3D%20Projects%20Developer;Blockchain%20Developer;Backend%20Engineer;Frontend%20Expert;React%20Master;8%2B%20years%20of%20coding%20experience;Always%20learning%20new%20techs&font=Pacifico&center=true&width=650&height=120&color=37b39a&vCenter=true&size=45%22)
 
@@ -42,6 +44,7 @@ Talking about Personal Stuffs:
     <img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=bcExpt1123.bcExpt1123" />
     <img align="right" src="https://img.shields.io/github/followers/bcExpt1123?label=Follow&style=social" />
 </div>
+
 <h1 align="center"></h1>
  <!-- <img width="100%" src="https://activity-graph.herokuapp.com/graph?username=bcExpt1123&theme=github&count_private=true" /> -->
 <!-- <h1 align="center"></h1> -->
