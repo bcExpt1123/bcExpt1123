@@ -93,6 +93,6 @@ Talking about Personal Stuffs:
     </tr>
 </table>
 
-<a href="https://bcexpt1123.github.io/examples/rubik3/">
+<!--<a href="https://bcexpt1123.github.io/examples/rubik3/">
     <img src="https://github.com/bcExpt1123/bcExpt1123/blob/main/screenshot.png?raw=true" title="Three.js" alt="Three.js">
-</a>
+</a>-->
