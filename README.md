@@ -20,7 +20,7 @@ Talking about Personal Stuffs:
 - <b>Others</b> : Docker | Docker-Compose | Swagger | Devops | Cicd | QA 
 - Git, Github, BitBucket, Amazon Web Services (Lambda, EC2, S3, Route53, DynamoDB, etc), Heroku, Jira, Trello, Pusher Digital-Ocean, Github Action, and so on.
 
-<i>LOOKING FOR OPPORTUNITY TO CONTRIBUTE TO PROFESSIONAL PROJECTS.</i>
+
 <div align="center">
     
 ### Magni's GitHub Streak
