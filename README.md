@@ -38,7 +38,7 @@ Talking about Personal Stuffs:
 ### Magni's Contribution Graph
 ![Magni's Contribution Graph](https://github-readme-activity-graph.cyclic.app/graph/?username=bcExpt1123&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true)
 
-![](https://readme-typing-svg.herokuapp.com/?lines=💥Three.js%20Engineer💥;3D%20Projects%20Developer;✨Blockchain%20Developer✨;✨Backend%20Engineer✨;✨Frontend%20Expert✨;✨React%20Master✨;🏆8%2B%20years%20of%20coding%20experience🏆;📖Always%20learning%20new%20techs📖&font=Pacifico&center=true&width=650&height=120&color=37b39a&vCenter=true&size=45%22)
+![](https://readme-typing-svg.herokuapp.com/?lines=💥Three.js%20Engineer💥;3D%20Project%20Developer;✨Blockchain%20Developer✨;I%20love%20coding;✨Backend%20Engineer✨;✨Frontend%20Expert✨;✨React%20Master✨;🏆8%2B%20years%20of%20coding%20experience🏆;📖Always%20learning%20new%20techs📖&font=Pacifico&center=true&width=650&height=120&color=37b39a&vCenter=true&size=45%22)
 
 <div>
     <img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=bcExpt1123.bcExpt1123" />
