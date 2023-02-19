@@ -7,7 +7,11 @@
 
 <!-- Main developer of [Scouting](https://scoutinglab.pro/) | [XPendpay](http://xpendpay.com//) | [SPS Cloud](https://spscloud.io/) -->
 
+🙌 🙌 🙌
+
 Talking about Personal Stuffs:
+
+🏆🏆🏆🎯🎯🎯✔✔✔💪💪💪
 
 - I'm a rich experienced full-stack developer for large projects and ready to start your project anytime.
 - Enterprise application development and support
