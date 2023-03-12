@@ -46,7 +46,8 @@ Talking about Personal Stuffs:
 
 <div>
     <img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=bcExpt1123.bcExpt1123" />
-    <img align="right" src="https://img.shields.io/github/followers/bcExpt1123?label=Follow&style=social" />
+    <img align="right" src="https://img.shields.io/github/followers/bcExpt1123" />
+    <!-- <img align="right" src="https://img.shields.io/github/followers/bcExpt1123?label=Follow&style=social" /> -->
 </div>
 
 <h1 align="center"></h1>
