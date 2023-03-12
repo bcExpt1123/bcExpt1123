@@ -27,10 +27,10 @@ Talking about Personal Stuffs:
 
 <div align="center">
     
-### Magni's GitHub Streak
+<!-- ### Magni's GitHub Streak
     
 ![Magni's GitHub Streak](https://streak-stats.demolab.com/?user=bcExpt1123&theme=monokai-metallian&hide_border=true)
-
+-->
 ### Magni's Most Used Langauges
 ![Magni's Most Used Langauges](https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=bcExpt1123&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,Roff)
     
