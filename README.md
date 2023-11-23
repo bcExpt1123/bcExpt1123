@@ -6,7 +6,7 @@
 ## <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> Welcome to my profile. This is Magni <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
 
 <!-- Main developer of [Scouting](https://scoutinglab.pro/) | [XPendpay](http://xpendpay.com//) | [SPS Cloud](https://spscloud.io/) -->
-
+<!--
 🙌 🙌 🙌
 
 Talking about Personal Stuffs:
@@ -26,11 +26,14 @@ Talking about Personal Stuffs:
 
 
 <div align="center">
-    
+    -->
 <!-- ### Magni's GitHub Streak
     
 ![Magni's GitHub Streak](https://streak-stats.demolab.com/?user=bcExpt1123&theme=monokai-metallian&hide_border=true)
 -->
+
+<div align="center">
+    
 ### Magni's Most Used Langauges
 ![Magni's Most Used Langauges](https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=bcExpt1123&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,Roff)
     
@@ -41,9 +44,9 @@ Talking about Personal Stuffs:
 
 <!-- ### Magni's Contribution Graph
 ![Magni's Contribution Graph](https://github-readme-activity-graph.cyclic.app/graph/?username=bcExpt1123&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true) -->
-
+<!--
 ![](https://readme-typing-svg.herokuapp.com/?lines=💥Three.js%20Engineer💥;3D%20Project%20Developer;✨Blockchain%20Developer✨;I%20love%20coding;✨Backend%20Engineer✨;✨Frontend%20Expert✨;✨React%20Master✨;🏆Professional%20coding%20experience🏆;📖Always%20learning%20new%20techs📖&font=Pacifico&center=true&width=650&height=120&color=37b39a&vCenter=true&size=45%22)
-
+-->
 <div>
     <img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=bcExpt1123.bcExpt1123" />
     <img align="right" src="https://img.shields.io/github/followers/bcExpt1123" />
@@ -52,7 +55,7 @@ Talking about Personal Stuffs:
 
 <h1 align="center"></h1>
  <!-- <img width="100%" src="https://activity-graph.herokuapp.com/graph?username=bcExpt1123&theme=github&count_private=true" /> -->
-<!-- <h1 align="center"></h1> -->
+<!-- <h1 align="center"></h1> --><!--
 </br>
 <h2 font-weight="bold" style="display: block; text-align: center; margin-top: 100px;">My Top Skills</h2>
 <table>
@@ -97,7 +100,7 @@ Talking about Personal Stuffs:
         <td><img src="https://github.com/bcExpt1123/bcExpt1123/blob/main/rubik3.jpg?raw=true" title="Three.js" width="100" alt="Three.js"></td>
     </tr>
 </table>
-
+-->
 <!--<a href="https://bcexpt1123.github.io/examples/rubik3/">
     <img src="https://github.com/bcExpt1123/bcExpt1123/blob/main/screenshot.png?raw=true" title="Three.js" alt="Three.js">
 </a>-->
