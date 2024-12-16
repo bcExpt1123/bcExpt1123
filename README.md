@@ -105,3 +105,10 @@ Talking about Personal Stuffs:
 <!--<a href="https://bcexpt1123.github.io/examples/rubik3/">
     <img src="https://github.com/bcExpt1123/bcExpt1123/blob/main/screenshot.png?raw=true" title="Three.js" alt="Three.js">
 </a>-->
+</div>
+## Contact Me
+
+You can reach me through the following channels:
+
+- **Email:** [bcexpt1123@gmail.com](mailto:bcexpt1123@gmail.com)
+- **Discord:** [magni3487](https://discordapp.com/users/magni3487)
