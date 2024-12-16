@@ -112,4 +112,4 @@ Talking about Personal Stuffs:
 You can reach me through the following channels:
 
 - **Email:** [bcexpt1123@gmail.com](mailto:bcexpt1123@gmail.com)
-- **Discord:** [magni3487](https://discordapp.com/users/magni3487)
+- **Discord:** magni3487
