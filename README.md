@@ -6,28 +6,21 @@
 
 <!-- ## <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> Welcome to my profile. This is Magni <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
 -->
-<!-- Main developer of [Scouting](https://scoutinglab.pro/) | [XPendpay](http://xpendpay.com//) | [SPS Cloud](https://spscloud.io/) -->
 <!--
-🙌 🙌 🙌
-
-Talking about Personal Stuffs:
-
-🏆🏆🏆🎯🎯🎯✔✔✔💪💪💪
-
-- I'm a rich experienced full-stack developer for large projects and ready to start your project anytime.
-- Enterprise application development and support
-- <b>Front-end</b> : Angular | Reactjs | Next.js | Vuejs | Vuex | TypeScript | TailWind CSS | Material | Styled Components | Bootstrap | Antd | Redux | Webpack | Babel | Gulp | Websocket | GraphQL | ES6+
-- <b>3D</b> : Three.js | 3D Max | WebGl | Potree
-- <b>Back-end</b> : Python | Node | Express | Django | GoLang | ASP.NET | Laravel | CodeIgniter | Apollo | Nginx | Apache
-- <b>Mobile</b> : React-Native | Flutter | Ionic
-- <b>Database</b> : Mysql | MongoDB | PostgreSQL | Firebase | Firestore | MariaDB | Redis
-- <b>Blockchain</b> : Smart contract | Solidity | ERC-20 | NFT | Rust | Dapp | Defi | Dao | Dex | Ethereum | BSC | Polygon | Solana
-- <b>Others</b> : Docker | Docker-Compose | Swagger | Devops | Cicd | QA | Notion
-- Git | Github | BitBucket | Amazon Web Services (Lambda, EC2, S3, Route53, DynamoDB, etc) | Heroku | Jira | Trello | Digital-Ocean | Kubernetes | Github Action.
+🙌          🙌 🏆🏆🏆🏆🏆
+ 🙌        🙌  🏆
+  🙌  🙌  🙌   🏆🏆🏆🏆
+   🙌 🙌 🙌    🏆
+    🙌  🙌     🏆🏆🏆🏆🏆
 
 
+🙌 🙌 🙌🏆🏆🏆🎯🎯🎯✔✔✔💪💪💪
 <div align="center">
-    -->
+
+-->
+
+
+
 <!-- ### Magni's GitHub Streak
     
 ![Magni's GitHub Streak](https://streak-stats.demolab.com/?user=bcExpt1123&theme=monokai-metallian&hide_border=true)
