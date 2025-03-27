@@ -22,6 +22,6 @@ jobs:
           username: ${{ secrets.MAIL_USERNAME }}
           password: ${{ secrets.MAIL_PASSWORD }}
           subject: GitHub Follower Change
-          from: Follower Change Notifier
+          from: bcexpt1123@gmail.com
           to: ${{ secrets.TO_EMAIL_ADDRESS }}
           html_body: file://${{ steps.followerChange.outputs.htmlFilePath }}
