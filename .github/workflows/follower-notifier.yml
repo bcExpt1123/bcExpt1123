@@ -12,7 +12,7 @@ jobs:
         uses: Sorosliu1029/follower-change@v2
         with:
           myToken: ${{ secrets.MY_TOKEN }}
-          notifyUnFollowEvent: false
+          notifyUnFollowEvent: true
       - name: email me
         uses: dawidd6/action-send-mail@v3
         with:
