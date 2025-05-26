@@ -27,15 +27,24 @@
 -->
 
 <div align="center">
-    
+
+<img height="158em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bcExpt1123&theme=radical">
+<img height="158em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=bcExpt1123&theme=radical">
+<img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=bcExpt1123&theme=radical">
+<img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=bcExpt1123&theme=radical">
+<img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=bcExpt1123&theme=radical&utcOffset=5.5">
+<img height="169em" src="https://github-readme-stats.vercel.app/api?username=bcExpt1123&theme=radical&hide_border=false&include_all_commits=true&count_private=true">
+<img height="169em" src="https://github-readme-streak-stats.herokuapp.com/?user=bcExpt1123&theme=radical">
+
+<!--
 ### Magni's Most Used Langauges
 ![Magni's Most Used Langauges](https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=bcExpt1123&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,Roff)
     
-<!-- ![My Github Status](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=bcExpt1123&theme=react&line_height=40&hide=css) -->
+ ![My Github Status](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=bcExpt1123&theme=react&line_height=40&hide=css)
 
 ### Magni's Github Status
 ![Magni's Github Status](https://denvercoder1-github-readme-stats.vercel.app/api/?username=bcExpt1123&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866)
-
+-->
 <!-- ### Magni's Contribution Graph
 ![Magni's Contribution Graph](https://github-readme-activity-graph.cyclic.app/graph/?username=bcExpt1123&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true) -->
 <!--
