@@ -1,8 +1,8 @@
-
+<!--
 <p align="center">
     <img src="https://github-profile-trophy.vercel.app/?username=bcExpt1123&row=1&column=7&theme=gruvbox&margin-w=15&margin-h=15"/>
 </p>
-
+-->
 
 <!-- ## <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> Welcome to my profile. This is Magni <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
 -->
@@ -27,14 +27,17 @@
 -->
 
 <div align="center">
+    <img height="106em" src="https://github-profile-trophy.vercel.app/?username=bcExpt1123&row=1&column=7&theme=radical&margin-w=15&margin-h=15">
+    <img height="158em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bcExpt1123&theme=radical">
+    <img height="158em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=bcExpt1123&theme=radical">
+    <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=bcExpt1123&theme=radical">
+    <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=bcExpt1123&theme=radical">
+    <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=bcExpt1123&theme=radical&utcOffset=5.5">
+    <img height="167em" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=bcExpt1123&show_icons=true&include_all_commits=true&count_private=true&theme=radical&hide_border=true">
+    <img height="167em" src="https://github-readme-streak-stats.herokuapp.com/?user=bcExpt1123&theme=radical">
+</div>
 
-<img height="158em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bcExpt1123&theme=radical">
-<img height="158em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=bcExpt1123&theme=radical">
-<img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=bcExpt1123&theme=radical">
-<img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=bcExpt1123&theme=radical">
-<img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=bcExpt1123&theme=radical&utcOffset=5.5">
-<img height="169em" src="https://github-readme-stats.vercel.app/api?username=bcExpt1123&theme=radical&hide_border=false&include_all_commits=true&count_private=true">
-<img height="169em" src="https://github-readme-streak-stats.herokuapp.com/?user=bcExpt1123&theme=radical">
+<!-- <img height="169em" src="https://github-readme-stats.vercel.app/api?username=bcExpt1123&theme=radical&hide_border=false&include_all_commits=true&count_private=true"> -->
 
 <!--
 ### Magni's Most Used Langauges
