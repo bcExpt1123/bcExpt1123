@@ -6,20 +6,6 @@
 
 <!-- ## <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> Welcome to my profile. This is Magni <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
 -->
-<!--
-🙌          🙌 🏆🏆🏆🏆🏆
- 🙌        🙌  🏆
-  🙌  🙌  🙌   🏆🏆🏆🏆
-   🙌 🙌 🙌    🏆
-    🙌  🙌     🏆🏆🏆🏆🏆
-
-
-🙌 🙌 🙌🏆🏆🏆🎯🎯🎯✔✔✔💪💪💪
-<div align="center">
-
--->
-
-
 
 <!-- ### Magni's GitHub Streak
     
@@ -35,7 +21,19 @@
     <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=bcExpt1123&theme=radical&utcOffset=5.5">
     <img height="167em" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=bcExpt1123&show_icons=true&include_all_commits=true&count_private=true&theme=radical&hide_border=true">
     <img height="167em" src="https://github-readme-streak-stats.herokuapp.com/?user=bcExpt1123&theme=radical">
+    <img height="290em" src="https://github-readme-activity-graph.vercel.app/graph?username=bcExpt1123&theme=radical">
 </div>
+
+
+<!--
+[![Contribuciones night-green](./profile-3d-contrib/profile-night-green.svg)](https://github.com/yoshi389111/github-profile-3d-contrib)
+
+<p align="center">
+  <a href="https://count.getloli.com/" target="_blank">
+    <img src="https://count.getloli.com/get/@marichu-kt_repo?theme=3d-num" alt="Visitor counter" />
+  </a>
+</p>
+-->
 
 <!-- <img height="169em" src="https://github-readme-stats.vercel.app/api?username=bcExpt1123&theme=radical&hide_border=false&include_all_commits=true&count_private=true"> -->
 
@@ -117,4 +115,5 @@
 You can reach me through the following channels:
 
 - **Email:** [bcexpt1123@gmail.com](mailto:bcexpt1123@gmail.com)
-- **Discord:** magni3487
+<!-- - **Discord:** magni3487 -->
+
