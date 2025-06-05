@@ -112,7 +112,7 @@
 
 ## Contact Me
 
-You can reach me through the following channels:
+You can reach me through the following email:
 
 - **Email:** [bcexpt1123@gmail.com](mailto:bcexpt1123@gmail.com)
 <!-- - **Discord:** magni3487 -->
